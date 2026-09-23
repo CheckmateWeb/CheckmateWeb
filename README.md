@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Christian Gabriel Mariveles</h1>
-<h3>Hi 👋, I'm Christian Gabriel Mariveles, a passionate web developer and student from the University of Santo Tomas. I focus on building intuitive, responsive web applications and bringing design concepts to life through clean code. Always learning and open to collaboration on exciting projects—feel free to reach out and connect!</h3>
+<h1>Hi, I'm Christian Gabriel Mariveles</h1>
+<h3>Hi, I'm Christian Gabriel Mariveles, a passionate web developer and student from the University of Santo Tomas. I focus on building intuitive, responsive web applications and bringing design concepts to life through clean code. Always learning and open to collaboration on exciting projects—feel free to reach out and connect!</h3>
 
 <p>
 </p>
